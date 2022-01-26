@@ -1,4 +1,4 @@
-# ventup-interview
+# poke-api 
 
 ## Project setup
 ```
